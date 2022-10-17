@@ -1,6 +1,6 @@
 #include"Vehicle.h"
 
-class Motorcycle: public Vehicle {
+class Motorcycle: public Vehicle { // inheritance
 private:
 	int milesPerGallon;
 	char colorInitial; //g->green, r->red, b->blue, etc.

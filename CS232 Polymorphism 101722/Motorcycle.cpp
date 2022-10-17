@@ -16,7 +16,7 @@ Motorcycle::Motorcycle(int numOfWheelsPar, int milesPerGallonPar, char colorInit
 
 void Motorcycle::setNumOfWheels(int numOfWheelsPar) {
 	Vehicle::setNumOfWheels(numOfWheelsPar);
-	//setNumOfWheels(numOfWheelsPar);
+	//setNumOfWheels(numOfWheelsPar); -> this will crash the program (recursive call)
 }
 void Motorcycle::setMilesPerGallon(int milesPerGallonPar) {
 	milesPerGallon = milesPerGallonPar;
