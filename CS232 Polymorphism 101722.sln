@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CS232 Polymorphism 101722", "CS232 Polymorphism 101722\CS232 Polymorphism 101722.vcxproj", "{6BEA3EB0-CBCA-490D-AF2E-6E43EC17682F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BEA3EB0-CBCA-490D-AF2E-6E43EC17682F}.Debug|x64.ActiveCfg = Debug|x64
+		{6BEA3EB0-CBCA-490D-AF2E-6E43EC17682F}.Debug|x64.Build.0 = Debug|x64
+		{6BEA3EB0-CBCA-490D-AF2E-6E43EC17682F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6BEA3EB0-CBCA-490D-AF2E-6E43EC17682F}.Debug|x86.Build.0 = Debug|Win32
+		{6BEA3EB0-CBCA-490D-AF2E-6E43EC17682F}.Release|x64.ActiveCfg = Release|x64
+		{6BEA3EB0-CBCA-490D-AF2E-6E43EC17682F}.Release|x64.Build.0 = Release|x64
+		{6BEA3EB0-CBCA-490D-AF2E-6E43EC17682F}.Release|x86.ActiveCfg = Release|Win32
+		{6BEA3EB0-CBCA-490D-AF2E-6E43EC17682F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEAF532A-02D2-400C-AEC4-380C44795584}
+	EndGlobalSection
+EndGlobal
